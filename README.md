@@ -1,1 +1,3 @@
-# Josephus Problem
+# Problem Josephus
+The program works! ...
+I think it's totally efficient ... but I do not know how to prove it. I hope to pull requests (help :c)
